@@ -1,4 +1,4 @@
 miniplate
 =========
 
-A basic html file to use as a starting point for quick experiments.
+A basic html file to be used as a starting point for quick experiments.
