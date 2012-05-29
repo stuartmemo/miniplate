@@ -7,4 +7,5 @@ Includes CDN links to:
 
 * jQuery
 * Underscore
+* Backbone 
 * Raphaël 
