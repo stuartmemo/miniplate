@@ -1,7 +1,7 @@
-miniplate
+Miniplate
 =========
 
-A basic html file to be used as a starting point for quick experiments.
+A basic HTML file to be used as a starting point for quick experiments. Includes bash script to be able to create HTML file from any directory.
 
 Includes CDN links to:
 
